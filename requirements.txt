@@ -1,0 +1,8 @@
+streamlit
+yfinance>=0.2.40
+plotly
+pandas
+numpy
+google-generativeai>=0.7.0
+groq
+duckduckgo-search
